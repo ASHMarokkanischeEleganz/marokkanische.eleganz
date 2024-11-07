@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html lang="de">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Marokkanische Eleganz - Takschita, Kaftan und Jellaba</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #f8f8f8;
+            color: #333;
+            margin: 0;
+            padding: 0;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            height: 100vh;
+            flex-direction: column;
+        }
+        .container {
+            text-align: center;
+            padding: 20px;
+            max-width: 600px;
+            background-color: #fff;
+            box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+            border-radius: 8px;
+        }
+        h1 {
+            color: #8b4513;
+        }
+        p {
+            font-size: 1.1em;
+            line-height: 1.6em;
+        }
+        .social-links a {
+            margin: 0 10px;
+            text-decoration: none;
+            color: #8b4513;
+            font-weight: bold;
+        }
+        .social-links a:hover {
+            text-decoration: underline;
+        }
+    </style>
+</head>
+<body>
+
+    <div class="container">
+        <h1>Marokkanische Eleganz</h1>
+        <p><em>Verkauf und Vermietung von Takschita</em></p>
+        
+        <p>Wir bieten hochwertige marokkanische Takschitas, Kaftane und Jellabas zum Verkauf und zur Vermietung an. Entdecken Sie die Eleganz und das handwerkliche Können marokkanischer Traditionen.</p>
+
+        <div class="social-links">
+            <p>Folge uns auf:</p>
+            <a href="https://www.tiktok.com/@marokkanische.eleganz" target="_blank">TikTok</a>
+            <a href="https://www.facebook.com/marokkanischeeleganz" target="_blank">Facebook</a>
+        </div>
+    </div>
+
+</body>
+</html>
